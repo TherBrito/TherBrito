@@ -24,7 +24,7 @@
   <a href="https://www.instagram.com/esterfeitosabrito/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ester-brito-5a1b5223b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:esterfeitosabrito@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="mailto:esterfeitosabrito@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.behance.net/esterbrito5"><img src="https://www.flaticon.com/free-icon/behance_3536806?term=behance&page=1&position=5&origin=tag&related_id=3536806" target="_blank"></a>
 </div>
 
 <div align="center">
