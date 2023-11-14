@@ -22,8 +22,8 @@
 </div><br>
 
 <div align="center">
- <a> 
-   <img href="https://www.behance.net/esterbrito5" align="center" alt="Behance" height="50" width="50" src="https://cdn-icons-png.flaticon.com/256/3536/3536806.png">
+ <a href="https://www.behance.net/esterbrito5"> 
+   <img align="center" alt="Behance" height="50" width="50" src="https://cdn-icons-png.flaticon.com/256/3536/3536806.png">
  </a>
   <a>
   <img href="linkedin.com/in/ester-brito-5a1b5223b" align="center" alt="LinkedIn" height="50" width="50" src="https://cdn-icons-png.flaticon.com/256/3536/3536505.png">
