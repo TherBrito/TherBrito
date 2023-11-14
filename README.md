@@ -1,6 +1,10 @@
 <div>
   
-  <p>Olá, eu me chamo Ester, tenho 18 anos e estudo Análise em Desenvolvimento de Sistemas, gosto de atuar na área de Front-end e Design Digital, Bem vindo ao meu GitHub!!👩‍💻</p>
+  <p>Olá, eu me chamo Ester, seja bem vindo(a) ao meu GitHub.
+    •Front-End👩‍💻
+    •Design✍
+    •Criatividade🔮
+  </p>
    <p align="center"><h2>Estudante Desenvolvimento de Sistemas...💻</h2>
 <div align="center">
   <a href="https://github.com/TherBrito">
