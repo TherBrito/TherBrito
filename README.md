@@ -19,6 +19,7 @@
 </div>
 
 <div align="center" valign="top"><br>
+  <img align="center" alt="git" height="30" width="40" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc5G2KD%2FbtqHoqp3dkp%2FqEIG2V9lct5KTmaprvzNs1%2Fimg.png">
   <img align="center" alt="git" height="30" width="40" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
