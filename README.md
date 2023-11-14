@@ -1,12 +1,14 @@
 <div>
   
   <p>Olá, eu me chamo Ester, seja bem vindo(a) ao meu GitHub.
+     <br>
+    •Técnica em Desenvolvimento de Sistemas 💻
     <br>
-    •Front-End👩‍💻
+    •Front-End 👩‍💻
     <br>
-    •Design✍
+    •Design ✍
     <br>
-    •Criatividade🔮
+    •Criatividade 🔮
   </p>
    <p align="center"><h2>Estudante Desenvolvimento de Sistemas...💻</h2>
 <div align="center">
