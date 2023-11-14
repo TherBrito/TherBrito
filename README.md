@@ -1,7 +1,7 @@
 <div>
-  <p><h1>Front-end e Design</h1></p>
-  <p align="center">Estudando Desenvolvimento de Sistemas...💻
-
+  
+  <p>Olá, eu me chamo Ester, tenho 18 anos e estudo Análise em Desenvolvimento de Sistemas, gosto de atuar na área de Front-end e Design Digital, Bem vindo ao meu GitHub!!</p>
+   <p align="center"><h1>Estudante Desenvolvimento de Sistemas...💻</h1>
 <div align="center">
   <a href="https://github.com/TherBrito">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TherBrito&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
