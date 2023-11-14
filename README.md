@@ -1,8 +1,11 @@
 <div>
   
   <p>Olá, eu me chamo Ester, seja bem vindo(a) ao meu GitHub.
+    <br>
     •Front-End👩‍💻
+    <br>
     •Design✍
+    <br>
     •Criatividade🔮
   </p>
    <p align="center"><h2>Estudante Desenvolvimento de Sistemas...💻</h2>
