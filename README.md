@@ -25,7 +25,7 @@
  <a href="https://www.behance.net/esterbrito5"> 
    <img align="center" alt="Behance" height="50" width="50" src="https://cdn-icons-png.flaticon.com/256/3536/3536806.png">
  </a>
-  <a href="linkedin.com/in/ester-brito-5a1b5223b">
+  <a href="https://www.linkedin.com/in/ester-brito-5a1b5223b/">
   <img align="center" alt="LinkedIn" height="50" width="50" src="https://cdn-icons-png.flaticon.com/256/3536/3536505.png">
   </a>
   <a  href="https://www.instagram.com/esterfeitosabrito/">
