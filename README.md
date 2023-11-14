@@ -21,9 +21,18 @@
 </div><br>
 
 <div align="center">
-  <a href="https://www.instagram.com/esterfeitosabrito/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ester-brito-5a1b5223b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<!--   <a href="https://www.behance.net/esterbrito5"><img src="https://cdn-icons-png.flaticon.com/256/3536/3536806.png" target="_blank"></a> -->
+ <a> 
+   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ </a>
+  <a>
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </a>
+  <a>
+  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  </a>
+  <a>
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  </a>
 </div>
 
 <div align="center">
