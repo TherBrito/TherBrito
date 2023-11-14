@@ -23,13 +23,13 @@
 
 <div align="center">
  <a> 
-   <img href="" align="center" alt="Behance" height="50" width="50" src="https://cdn-icons-png.flaticon.com/256/3536/3536806.png">
+   <img href="https://www.behance.net/esterbrito5" align="center" alt="Behance" height="50" width="50" src="https://cdn-icons-png.flaticon.com/256/3536/3536806.png">
  </a>
   <a>
-  <img align="center" alt="LinkedIn" height="50" width="50" src="https://cdn-icons-png.flaticon.com/256/3536/3536505.png">
+  <img href="linkedin.com/in/ester-brito-5a1b5223b" align="center" alt="LinkedIn" height="50" width="50" src="https://cdn-icons-png.flaticon.com/256/3536/3536505.png">
   </a>
   <a>
-  <img align="center" alt="Instagram" height="50" width="50" src="https://cdn-icons-png.flaticon.com/256/2111/2111463.png">
+  <img href="https://www.instagram.com/esterfeitosabrito/"  align="center" alt="Instagram" height="50" width="50" src="https://cdn-icons-png.flaticon.com/256/2111/2111463.png">
   </a>
 </div>
 
