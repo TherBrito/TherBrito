@@ -1,6 +1,7 @@
 <div>
   
   <p>Olá, eu me chamo Ester, seja bem vindo(a) ao meu GitHub.
+    <p>
     <br>
     •Front-End👩‍💻
     <br>
