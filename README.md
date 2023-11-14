@@ -22,13 +22,13 @@
 
 <div align="center">
  <a> 
-   <img href="" align="center" alt="HTML" height="30" width="40" src="https://cdn-icons-png.flaticon.com/256/3536/3536806.png">
+   <img href="" align="center" alt="Behance" height="30" width="50" src="https://cdn-icons-png.flaticon.com/256/3536/3536806.png">
  </a>
   <a>
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn-icons-png.flaticon.com/256/3536/3536505.png">
+  <img align="center" alt="LinkedIn" height="30" width="50" src="https://cdn-icons-png.flaticon.com/256/3536/3536505.png">
   </a>
   <a>
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn-icons-png.flaticon.com/256/2111/2111463.png">
+  <img align="center" alt="Instagram" height="30" width="50" src="https://cdn-icons-png.flaticon.com/256/2111/2111463.png">
   </a>
 </div>
 
