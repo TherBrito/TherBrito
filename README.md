@@ -46,7 +46,7 @@
 
 <div align="center"> <br>
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/XsLK9V6/Bot-o.png" alt="Bot-o" border="0"></a>
+<a href="#"><img src="https://i.ibb.co/XsLK9V6/Bot-o.png" alt="Bot-o" border="0"></a>
   
   ![Snake animation](https://github.com/TherBrito/TherBrito/blob/output/github-contribution-grid-snake.svg)
   
