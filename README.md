@@ -44,7 +44,7 @@
   </a>
 </div>
 
-<div align="center">
+<div align="center"> <br>
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/XsLK9V6/Bot-o.png" alt="Bot-o" border="0"></a>
   
