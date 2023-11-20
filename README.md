@@ -32,8 +32,6 @@
  
 </div><br>
 
-<a href="https://meixins.neocities.org/"><img src="button image hosted on your own site please! :•)" style="image-rendering: pixelated;></a>
-
 <div align="center">
  <a href="https://www.behance.net/esterbrito5"> 
    <img align="center" alt="Behance" height="50" width="50" src="https://cdn-icons-png.flaticon.com/256/3536/3536806.png">
@@ -47,6 +45,8 @@
 </div>
 
 <div align="center">
+
+<a href="#"><img src="https://ibb.co/4ghnnhz" style="image-rendering: pixelated;></a>
   
   ![Snake animation](https://github.com/TherBrito/TherBrito/blob/output/github-contribution-grid-snake.svg)
   
