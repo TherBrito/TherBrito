@@ -42,8 +42,7 @@
   <a  href="https://www.instagram.com/esterfeitosabrito/">
   <img align="center" alt="Instagram" height="50" width="50" src="https://cdn-icons-png.flaticon.com/256/2111/2111463.png">
   </a>
-</div> <br>
-
+</div>
 <div align="center"> <br>
   <h3>Link para meu portifólio:</h3>
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/Jymdm4c/Group-1.png" alt="Group-1" border="0"></a>
