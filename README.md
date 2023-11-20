@@ -45,7 +45,7 @@
 </div> <br>
 
 <div align="center"> <br>
-  <h3>Link para meu portifólio</h3>
+  <h3>Link para meu portifólio:</h3>
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/Jymdm4c/Group-1.png" alt="Group-1" border="0"></a>
 </div>
 
