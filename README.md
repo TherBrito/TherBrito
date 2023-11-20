@@ -42,12 +42,10 @@
   <a  href="https://www.instagram.com/esterfeitosabrito/">
   <img align="center" alt="Instagram" height="50" width="50" src="https://cdn-icons-png.flaticon.com/256/2111/2111463.png">
   </a>
-</div>
-
-<div align="center"> <br>
+</div> <br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Jymdm4c/Group-1.png" alt="Group-1" border="0"></a>
-  ![Snake animation](https://github.com/TherBrito/TherBrito/blob/output/github-contribution-grid-snake.svg)
-  
+<div align="center"> <br>
+   ![Snake animation](https://github.com/TherBrito/TherBrito/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 [![An image of @therbrito's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/therbrito)](https://holopin.io/@therbrito)
