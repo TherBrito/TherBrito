@@ -2,12 +2,12 @@
   
   <p>Olá, eu me chamo Ester, seja bem vindo(a) ao meu GitHub.</p>
    <p align="center"><h2>Tecnóloga em Desenvolvimento de Sistemas...💻</h2>
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/TherBrito">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TherBrito&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TherBrito&theme=dark&hide_border=false&&layout=compact"/>
   </a>
-</div>
+</div> -->
 
 <div align="center" valign="top"><br>
   <img align="center" alt="git" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/figma_macos_bigsur_icon_190183.png">
