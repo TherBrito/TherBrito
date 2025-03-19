@@ -1,16 +1,7 @@
 <div>
   
-  <p>Olá, eu me chamo Ester, seja bem vindo(a) ao meu GitHub.
-     <br>
-    •Técnica em Desenvolvimento de Sistemas 💻
-    <br>
-    •Front-End 👩‍💻
-    <br>
-    •Design ✍
-    <br>
-    •Criatividade 🔮
-  </p>
-   <p align="center"><h2>Estudante Desenvolvimento de Sistemas...💻</h2>
+  <p>Olá, eu me chamo Ester, seja bem vindo(a) ao meu GitHub.</p>
+   <p align="center"><h2>Tecnóloga em Desenvolvimento de Sistemas...💻</h2>
 <div align="center">
   <a href="https://github.com/TherBrito">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TherBrito&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
@@ -49,4 +40,8 @@
 </div>
 
 [![An image of @therbrito's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/therbrito)](https://holopin.io/@therbrito)
+
+ ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight&theme=icegray&border_radius=8) |
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
