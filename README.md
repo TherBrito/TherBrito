@@ -2,6 +2,10 @@
   
   <p>Olá, eu me chamo Ester, seja bem vindo(a) ao meu GitHub.</p>
    <p align="center"><h2>Tecnóloga em Desenvolvimento de Sistemas...💻</h2>
+  <p> Sobre mim: </p>
+<p> Sou a Ester, tenho 20 anos e adoro tudo que envolve criatividade. Nos últimos tempos, tenho me dedicado a aprender mais sobre cibersegurança, 
+  que é uma área que realmente me fascina. Estou sempre buscando novos desafios e conhecimento para crescer nesse universo da tecnologia. 🚀  </p>
+
 <!-- <div align="center">
   <a href="https://github.com/TherBrito">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TherBrito&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
