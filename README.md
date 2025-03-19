@@ -8,6 +8,19 @@
 ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight&theme=icegray&border_radius=8) 
 
 
+details>
+  <summary>😆 More bragging about me.</summary>
+  <br>
+  
+  - I graduated in 2024 with 100% scholarship in CS.
+  - I've played a crucial role as a maintainer & contributor of [LinksHub](https://github.com/rupali-codes/LinksHub).
+  - Participated in Buildspace Season 4 and built [designlyfe.tech](https://designlyfe.tech/). Watch my [journey of 6 weeks](https://buildspace.so/s4/demoday/designlyfe).
+  - Secured 11th Rank in GSSoC'23 (contributor) with 100+ PRs, did mentoring for [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io) and created content as a core team member (GSSoC'23 Team) for _200k+_ audiences.
+  - Participated in a lot of competitions in college (don't really get the time anymore) and won more than 10.
+
+</details>
+
+
 <!-- <div align="center">
   <a href="https://github.com/TherBrito">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TherBrito&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
