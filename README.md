@@ -9,15 +9,25 @@
 
 
 <details>
-  <summary>😆 More bragging about me.</summary>
+  <summary>🍒 Um pouco sobre meus interesses.</summary>
   <br>
   
-  - I graduated in 2024 with 100% scholarship in CS.
-  - I've played a crucial role as a maintainer & contributor of [LinksHub](https://github.com/rupali-codes/LinksHub).
-  - Participated in Buildspace Season 4 and built [designlyfe.tech](https://designlyfe.tech/). Watch my [journey of 6 weeks](https://buildspace.so/s4/demoday/designlyfe).
-  - Secured 11th Rank in GSSoC'23 (contributor) with 100+ PRs, did mentoring for [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io) and created content as a core team member (GSSoC'23 Team) for _200k+_ audiences.
-  - Participated in a lot of competitions in college (don't really get the time anymore) and won more than 10.
+  - CiberSegurança.
+  - UI Design.
+  - Desenvolvimento Front-End.
+  - Arte Criativa.
+    
+</details>
 
+<details>
+  <summary>🍓 Minha Formação e Cursos.</summary>
+  <br>
+  
+  - Formada em Técnica em Desenvolvimento de Sistemas pela ETEC (AMS).
+  - Formada em Tecnóloga em Desenvolvimento de Sistemas pela FATEC (AMS).
+  - SAP Professional 5.0
+  - Segurança da Informação: Módulo 01 (Em andamento...).
+    
 </details>
 
 
