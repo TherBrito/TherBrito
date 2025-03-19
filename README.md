@@ -1,6 +1,4 @@
 <div>
-  
-  <p>Olá, eu me chamo Ester, seja bem vindo(a) ao meu GitHub.</p>
    <p align="center"><h2>Tecnóloga em Desenvolvimento de Sistemas...💻</h2>
   <p> Sobre mim: </p>
 <p> Sou a Ester, tenho 20 anos e adoro tudo que envolve criatividade. Nos últimos tempos, tenho me dedicado a aprender mais sobre cibersegurança, 
