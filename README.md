@@ -4,6 +4,9 @@
 <p> Sou a Ester, tenho 20 anos e adoro tudo que envolve criatividade. Nos últimos tempos, tenho me dedicado a aprender mais sobre cibersegurança, 
   que é uma área que realmente me fascina. Estou sempre buscando novos desafios e conhecimento para crescer nesse universo da tecnologia. 🚀  </p>
 
+   ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight&theme=icegray&border_radius=8) 
+
+
 <!-- <div align="center">
   <a href="https://github.com/TherBrito">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TherBrito&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
@@ -41,7 +44,6 @@
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/Jymdm4c/Group-1.png" alt="Group-1" border="0"></a> -->
 </div>
 
- ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight&theme=icegray&border_radius=8) |
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
