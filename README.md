@@ -8,7 +8,7 @@
 ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight&theme=icegray&border_radius=8) 
 
 
-details>
+<details>
   <summary>😆 More bragging about me.</summary>
   <br>
   
