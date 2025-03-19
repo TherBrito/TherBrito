@@ -4,8 +4,8 @@
 <p> Sou a Ester, tenho 20 anos e adoro tudo que envolve criatividade. Nos últimos tempos, tenho me dedicado a aprender mais sobre cibersegurança, 
   que é uma área que realmente me fascina. Estou sempre buscando novos desafios e conhecimento para crescer nesse universo da tecnologia. 🚀  </p>
    
-![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) 
-![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight&theme=icegray&border_radius=8) 
+![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight&theme=icegray&border_radius=8)  
+
 
 
 <details>
@@ -38,7 +38,8 @@
   </a>
 </div> -->
 
-<h1> Meus Conhecimentos: </h1>
+<h1> Meus Conhecimentos: </
+h1>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="git" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/figma_macos_bigsur_icon_190183.png">
