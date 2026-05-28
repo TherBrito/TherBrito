@@ -1,8 +1,5 @@
 <div>
    <p align="center"><h2>Tecnóloga em Desenvolvimento de Sistemas...💻</h2>
-   
-![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Baranwal\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol-Baranwal&theme=tokyonight&theme=icegray&border_radius=8)  
-
 
 
 <details>
@@ -23,7 +20,10 @@
   - Formada em Técnica em Desenvolvimento de Sistemas pela ETEC (AMS).
   - Formada em Tecnóloga em Desenvolvimento de Sistemas pela FATEC (AMS).
   - SAP Professional 5.0
-  - Segurança da Informação: Módulo 01 (Em andamento...).
+  - Segurança da Informação: (Em andamento...).
+  - Inglês: (Em andamento...).
+  - Lógica de programação Curso em video (Em andamento...)
+  
     
 </details>
 
@@ -53,9 +53,6 @@ h1>
 </div><br>
 
 <div align="center">
- <a href="https://www.behance.net/esterbrito5"> 
-   <img align="center" alt="Behance" height="50" width="50" src="https://cdn-icons-png.flaticon.com/256/3536/3536806.png">
- </a>
   <a href="https://www.linkedin.com/in/ester-brito-5a1b5223b/">
   <img align="center" alt="LinkedIn" height="50" width="50" src="https://cdn-icons-png.flaticon.com/256/3536/3536505.png">
   </a>
